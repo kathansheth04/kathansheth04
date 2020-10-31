@@ -1,16 +1,39 @@
-### Hi there 👋
+# :wave: Hello, I'm Kathan!
 
-<!--
-**kathansheth04/kathansheth04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
 
-Here are some ideas to get you started:
+Junior at Milpitas High School :books:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mobile App Developer :iphone: 
+
+Programming Lead of VEX team 1669X and Milpitas Xtreme Robotics :robot:
+
+Learning Data Science :chart_with_upwards_trend:  and Machine Learning
+
+Love to play :ping_pong: and :basketball: 
+
+Currently playing Valorant :video_game: 
+
+## Tools and Frameworks I use 
+
+* React Native
+* Flutter
+* FireBase
+* Dialogflow
+
+![https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nord](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nord)
+
+## Follow / Contact Me
+
+
+
+<a href="https://www.linkedin.com/in/kathan-sheth-b0a9971b0/">
+    <img src="./images/linkedin2.jpg" width="30" height="30"/>
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[sheth.kathan04@gmail.com]">
+    <img src="./images/gmail.png" width="28" height="31"/>
+</a>
+
+
+![https://github-readme-stats.vercel.app/api?username=kathansheth04&theme=nord](https://github-readme-stats.vercel.app/api?username=kathansheth04&theme=nord)
