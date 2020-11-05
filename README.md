@@ -35,4 +35,4 @@ Currently playing Valorant :video_game:
 </a>
 
 
-![https://github-readme-stats.vercel.app/api?username=kathansheth04&theme=nord](https://github-readme-stats.vercel.app/api?username=kathansheth04&theme=nord) ![https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nord](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nord)
+![https://github-readme-stats.vercel.app/api?username=kathansheth04&theme=nord](https://github-readme-stats.vercel.app/api?username=kathansheth04&theme=nord&@include_all_commits=true) ![https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nord](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nord)
