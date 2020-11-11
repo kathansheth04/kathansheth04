@@ -14,7 +14,7 @@ Love to play :ping_pong: and :basketball:
 
 Currently playing Valorant :video_game: 
 
-Linux enthusiast passionate about ricing :computer:
+Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/NordRice) :computer:
 
 ## Tools and Frameworks I use 
 
