@@ -14,6 +14,8 @@ Love to play :ping_pong: and :basketball:
 
 Currently playing Valorant :video_game: 
 
+Linux enthusiast passionate about ricing :computer:
+
 ## Tools and Frameworks I use 
 
 * React Native
