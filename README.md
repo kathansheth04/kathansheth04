@@ -25,8 +25,6 @@ Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/Nord
 
 ## Follow / Contact Me
 
-[Personal Webiste](https://kathansheth04.github.io)
-
 <a href="https://www.linkedin.com/in/kathan-sheth-b0a9971b0/">
     <img src="./images/linkedin2.jpg" width="30" height="30"/>
 </a>
