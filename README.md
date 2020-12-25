@@ -23,17 +23,6 @@ Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/Nord
 * FireBase
 * Dialogflow
 
-## Follow / Contact Me
-
-<a href="https://www.linkedin.com/in/kathan-sheth-b0a9971b0/">
-    <img src="./images/linkedin2.jpg" width="30" height="30"/>
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[sheth.kathan04@gmail.com]">
-    <img src="./images/gmail.png" width="28" height="31"/>
-</a>
-
-
 ![https://github-readme-stats-eight-theta.vercel.app/api?username=kathansheth04&show_icons=false&theme=nord&include_all_commits=true&count_private=true](https://github-readme-stats-eight-theta.vercel.app/api?username=kathansheth04&show_icons=false&theme=nord&include_all_commits=true&count_private=true) 
 
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&layout=compact&theme=nord&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&layout=compact&theme=nord&include_all_commits=true&count_private=true)
