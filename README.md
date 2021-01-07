@@ -12,8 +12,6 @@ Learning Data Science :chart_with_upwards_trend:  and Machine Learning
 
 Love to play :ping_pong: and :basketball: 
 
-Currently playing Valorant :video_game: 
-
 Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/NordRice) :computer:
 
 ## Tools and Frameworks I use 
