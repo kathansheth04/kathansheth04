@@ -21,6 +21,6 @@ Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/Nord
 * FireBase
 * Dialogflow
 
-![https://github-readme-stats-eight-theta.vercel.app/api?username=kathansheth04&show_icons=false&theme=nord&include_all_commits=true&count_private=false](https://github-readme-stats-eight-theta.vercel.app/api?username=kathansheth04&show_icons=false&theme=nord&include_all_commits=true&count_private=false) 
+![https://github-readme-stats-eight-theta.vercel.app/api?username=kathansheth04&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats-eight-theta.vercel.app/api?username=kathansheth04&show_icons=true&theme=dark&include_all_commits=true&count_private=true) 
 
-![https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&layout=compact&theme=nord&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&layout=compact&theme=nord&include_all_commits=true&count_private=true)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&layout=compact&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&layout=compact&theme=dark&include_all_commits=true&count_private=true)
