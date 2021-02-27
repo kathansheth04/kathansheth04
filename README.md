@@ -2,7 +2,7 @@
 
 ## About Me 
 
-Junior at Milpitas High School :books:
+Junior at Milpitas High School :school:
 
 Mobile App Developer :iphone: 
 
@@ -10,16 +10,18 @@ Programming Lead of VEX team 1669X and Milpitas Xtreme Robotics :robot:
 
 Learning Data Science :chart_with_upwards_trend:  and Machine Learning
 
-Love to play :ping_pong: and :basketball: 
+Love to play/watch :ping_pong: and :basketball: 
 
 Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/NordRice) :computer:
 
-## Tools and Frameworks I use 
+## What I use 
 
 * React Native
 * Flutter
 * FireBase
 * Dialogflow
+* Flask
+* VEX PROS
 
 ![https://github-readme-stats-eight-theta.vercel.app/api?username=kathansheth04&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats-eight-theta.vercel.app/api?username=kathansheth04&show_icons=true&theme=dark&include_all_commits=true&count_private=true) 
 
