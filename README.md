@@ -23,6 +23,10 @@ Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/Nord
 * Flask
 * VEX PROS
 
+
+Check out my [Website](https://kathansheth04.github.io) 👈
+
+
 ![https://github-readme-stats-eight-theta.vercel.app/api?username=kathansheth04&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats-eight-theta.vercel.app/api?username=kathansheth04&show_icons=true&theme=dark&include_all_commits=true&count_private=true) 
 
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&layout=compact&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&layout=compact&theme=dark&include_all_commits=true&count_private=true)
