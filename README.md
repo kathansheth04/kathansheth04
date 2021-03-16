@@ -24,7 +24,7 @@ Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/Nord
 * VEX PROS
 
 
-Check out my [Website](https://kathansheth04.github.io/website) 👈
+Check out my [Website](https://www.kathansheth.live) 👈
 
 
 ![https://github-readme-stats-eight-theta.vercel.app/api?username=kathansheth04&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats-eight-theta.vercel.app/api?username=kathansheth04&show_icons=true&theme=dark&include_all_commits=true&count_private=true) 
