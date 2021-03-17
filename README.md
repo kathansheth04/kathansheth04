@@ -10,7 +10,7 @@ Programming Lead of VEX team 1669X and Milpitas Xtreme Robotics :robot:
 
 Learning Data Science :chart_with_upwards_trend:  and Machine Learning
 
-Love to play/watch :ping_pong: and :basketball: 
+Playing :ping_pong: and :basketball: 
 
 Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/NordRice) :computer:
 
