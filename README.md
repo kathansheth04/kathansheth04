@@ -4,7 +4,7 @@
 
 Junior at Milpitas High School :school:
 
-Mobile App Developer :iphone: 
+Experienced Mobile App Developer :iphone: 
 
 Programming Lead of VEX team 1669X and Milpitas Xtreme Robotics :robot:
 
