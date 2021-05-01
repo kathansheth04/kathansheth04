@@ -24,8 +24,8 @@ Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/Nord
 * [VEX PROS](https://pros.cs.purdue.edu)
 
 ## Latest projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kathansheth04&repo=dvhacks&include_all_commits=true&count_private=true&theme=gotham)](https://github.com/kathansheth04/dvhacks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kathansheth04&repo=BraceForecast&include_all_commits=true&count_private=true&theme=gotham)](https://github.com/kathansheth04/BraceForecast)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kathansheth04&repo=dvhacks&include_all_commits=true&count_private=true&theme=dark)](https://github.com/kathansheth04/dvhacks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kathansheth04&repo=BraceForecast&include_all_commits=true&count_private=true&theme=dark)](https://github.com/kathansheth04/BraceForecast)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&langs_count=5&include_all_commits=true&count_private=true&theme=gotham&layout=compact)](https://github.com/kathansheth04)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&langs_count=5&include_all_commits=true&count_private=true&theme=dark&layout=compact)](https://github.com/kathansheth04)
