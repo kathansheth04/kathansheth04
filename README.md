@@ -27,8 +27,5 @@ Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/Nord
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kathansheth04&repo=dvhacks&include_all_commits=true&count_private=true&theme=gotham)](https://github.com/kathansheth04/dvhacks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kathansheth04&repo=BraceForecast&include_all_commits=true&count_private=true&theme=gotham)](https://github.com/kathansheth04/BraceForecast)
 
-## 
 
-![https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&layout=compact&theme=gotham&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&layout=compact&theme=gotham&include_all_commits=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&langs_count=5&include_all_commits=true&count_private=true&theme=gotham)](https://github.com/kathansheth04/BraceForecast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&langs_count=5&include_all_commits=true&count_private=true&theme=gotham)]
