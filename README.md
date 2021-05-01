@@ -14,14 +14,14 @@ Playing :ping_pong: and :basketball:
 
 Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/NordRice) :computer:
 
-## What I use 
+## What I have experience with 
 
-* React Native
-* Flutter
-* FireBase
-* Dialogflow
-* Flask
-* VEX PROS
+* [React Native](https://reactnative.dev)
+* [Flutter](https://flutter.dev)
+* [Firebase](https://firebase.google.com)
+* [Dialogflow](https://cloud.google.com/dialogflow/docs)
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [VEX PROS](https://pros.cs.purdue.edu)
 
 ## Latest projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kathansheth04&repo=dvhacks&include_all_commits=true&count_private=true&theme=gotham)](https://github.com/kathansheth04/dvhacks)
