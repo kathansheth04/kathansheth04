@@ -23,9 +23,7 @@ Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/Nord
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [VEX PROS](https://pros.cs.purdue.edu)
 
-## Latest projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kathansheth04&repo=dvhacks&include_all_commits=true&count_private=true&theme=dark)](https://github.com/kathansheth04/dvhacks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kathansheth04&repo=BraceForecast&include_all_commits=true&count_private=true&theme=dark)](https://github.com/kathansheth04/BraceForecast)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&langs_count=5&include_all_commits=true&count_private=true&theme=dark&layout=compact)](https://github.com/kathansheth04)
+
+![Kathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathansheth04&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compac)
