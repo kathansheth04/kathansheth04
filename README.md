@@ -26,4 +26,3 @@ Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/Nord
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&langs_count=5&include_all_commits=true&count_private=true&theme=dark&layout=compact)](https://github.com/kathansheth04)
 
-![Kathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathansheth04&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact)
