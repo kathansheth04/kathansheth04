@@ -12,7 +12,7 @@ Learning Data Science :chart_with_upwards_trend: and Machine Learning
 
 Playing :ping_pong: and :basketball: 
 
-Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/NordRice) 🍚:
+Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/NordRice) 🍚
 
 Open to collaborate and develop modern applications 💻
 
