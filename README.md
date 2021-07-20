@@ -8,7 +8,7 @@ Experienced Full-Stack Mobile App Developer :iphone:
 
 Vice President and Former Programming Lead at Milpitas Xtreme Robotics :robot:
 
-Data Science :chart_with_upwards_trend: and Machine Learning Enthusiast
+Data Science and Machine Learning Enthusiast :chart_with_upwards_trend:
 
 Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/NordRice) 🍚
 
