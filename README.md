@@ -2,15 +2,13 @@
 
 ## About Me 
 
-Junior at Milpitas High School :school:
+Incoming Senior at Milpitas High School :school:
 
-Experienced Mobile App Developer :iphone: 
+Experienced Full-Stack Mobile App Developer :iphone: 
 
-Vice President and former Programming Lead Milpitas Xtreme Robotics :robot:
+Vice President and Former Programming Lead at Milpitas Xtreme Robotics :robot:
 
-Learning Data Science :chart_with_upwards_trend: and Machine Learning
-
-Playing :ping_pong: and :basketball: 
+Data Science :chart_with_upwards_trend: and Machine Learning Enthusiast
 
 Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/NordRice) 🍚
 
@@ -21,9 +19,10 @@ Open to collaborate and develop modern applications 💻
 * [React Native](https://reactnative.dev)
 * [Flutter](https://flutter.dev)
 * [Firebase](https://firebase.google.com)
-* [Dialogflow](https://cloud.google.com/dialogflow/docs)
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [Postman for APIs](http://postman.com)
+* [MongoDB](https://www.mongodb.com)
+* [Dialogflow](https://cloud.google.com/dialogflow/docs)
 * [VEX PROS](https://pros.cs.purdue.edu)
 
 
