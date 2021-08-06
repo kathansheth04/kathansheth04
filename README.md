@@ -20,7 +20,7 @@ Open to collaborate and develop modern applications 💻
 * [Flutter](https://flutter.dev)
 * [Firebase](https://firebase.google.com)
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
-* [Postman for APIs](http://postman.com)
+* [Postman](http://postman.com)
 * [MongoDB](https://www.mongodb.com)
 * [Dialogflow](https://cloud.google.com/dialogflow/docs)
 * [VEX PROS](https://pros.cs.purdue.edu)
