@@ -2,7 +2,7 @@
 
 ## About Me 
 
-:school: Incoming Senior at Milpitas High School 
+:school: Senior at Milpitas High School 
 
 :iphone: Experienced Full-Stack Mobile App Developer 
 
