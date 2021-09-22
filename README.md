@@ -2,17 +2,17 @@
 
 ## About Me 
 
-Incoming Senior at Milpitas High School :school:
+:school: Incoming Senior at Milpitas High School 
 
-Experienced Full-Stack Mobile App Developer :iphone: 
+:iphone: Experienced Full-Stack Mobile App Developer 
 
-Vice President and Former Programming Lead at Milpitas Xtreme Robotics :robot:
+:robot: Vice President and Former Programming Lead at Milpitas Xtreme Robotics 
 
-Data Science and Machine Learning Enthusiast :chart_with_upwards_trend:
+:chart_with_upwards_trend: Data Science and Machine Learning Enthusiast 
 
-Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/NordRice) 🍚
+🍚 Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/NordRice) 
 
-Open to collaborate and develop modern applications 💻
+💻 Open to collaborate and develop modern applications 
 
 ## What I have experience with 
 
