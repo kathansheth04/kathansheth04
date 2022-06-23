@@ -2,11 +2,11 @@
 
 ## About Me 
 
-:school: Senior at Milpitas High School 
+:school: Incoming CS Major @ UW-Madison 
 
 :iphone: Experienced Full-Stack Mobile App Developer 
 
-:robot: Vice President and Former Programming Lead at Milpitas Xtreme Robotics 
+:robot: Former Vice President and Programming Lead at Milpitas Xtreme Robotics 
 
 :chart_with_upwards_trend: Data Science and Machine Learning Enthusiast 
 
