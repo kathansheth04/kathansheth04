@@ -10,8 +10,6 @@
 
 :chart_with_upwards_trend: Data Science and Machine Learning Enthusiast 
 
-🍚 Linux enthusiast passionate about [ricing](https://github.com/kathansheth04/NordRice) 
-
 💻 Open to collaborate and develop modern applications 
 
 ## What I have experience with 
