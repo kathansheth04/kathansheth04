@@ -2,7 +2,7 @@
 
 ## About Me 
 
-:school: Incoming CS Major @ UW-Madison 
+:school: CS @ UW-Madison 
 
 :iphone: Experienced Full-Stack Mobile App Developer 
 
