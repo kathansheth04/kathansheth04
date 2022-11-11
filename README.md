@@ -12,7 +12,7 @@
 
 💻 Open to collaborate and develop modern applications 
 
-## What I have experience with 
+## My Expertise 
 
 * [React Native](https://reactnative.dev)
 * [Flutter](https://flutter.dev)
