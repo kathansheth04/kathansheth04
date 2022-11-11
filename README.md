@@ -4,7 +4,7 @@
 
 :school: CS @ UW-Madison 
 
-:iphone: Experienced Full-Stack Mobile App Developer 
+🛠 Experienced Full-Stack Developer 
 
 :robot: Former Vice President and Programming Lead at Milpitas Xtreme Robotics 
 
