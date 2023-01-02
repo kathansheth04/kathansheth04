@@ -26,4 +26,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&langs_count=5&include_all_commits=true&count_private=true&theme=dark&layout=compact)](https://github.com/kathansheth04)
 
-[![Github Commits](https://github-readme-stats.vercel.app/api?username=kathansheth04&show_icons=true&include_all_commits=true&count_private=true&theme=dark&include_private=true)](htts://github.com/kathansheth04)
+<!-- [![Github Commits](https://github-readme-stats.vercel.app/api?username=kathansheth04&show_icons=true&include_all_commits=true&count_private=true&theme=dark&include_private=true)](htts://github.com/kathansheth04) -->
