@@ -2,26 +2,26 @@
 
 ## About Me 
 
-:school: CS @ UW-Madison 
+:school: Senior @ UW-Madison, majoring in CS
 
 🛠 Experienced Full-Stack Developer 
 
-:robot: Former Vice President and Programming Lead at Milpitas Xtreme Robotics 
+👨‍💻 Former SWE Intern at Kohl's and Honeywell 
 
-:chart_with_upwards_trend: Data Science and Machine Learning Enthusiast 
+🎨 UI/UX Design Enthusiast
 
 💻 Open to collaborate and develop modern applications 
 
 ## My Expertise 
 
+* [NodeJS](https://nodejs.org/en)
 * [React Native](https://reactnative.dev)
+* [React](https://react.dev)
 * [Flutter](https://flutter.dev)
-* [Firebase](https://firebase.google.com)
+* [Google Cloud](https://cloud.google.com)
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [Postman](http://postman.com)
 * [MongoDB](https://www.mongodb.com)
-* [Dialogflow](https://cloud.google.com/dialogflow/docs)
-* [VEX PROS](https://pros.cs.purdue.edu)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathansheth04&langs_count=5&include_all_commits=true&count_private=true&theme=dark&layout=compact)](https://github.com/kathansheth04)
