@@ -2,7 +2,7 @@
 
 ## About Me 
 
-:school: Senior @ UW-Madison, majoring in CS
+:school: Recent Grad fromm UW-Madison with BS in Computer Science
 
 🛠 Experienced Full-Stack Developer 
 
