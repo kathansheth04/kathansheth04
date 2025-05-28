@@ -2,15 +2,13 @@
 
 ## About Me 
 
-:school: Recent Grad fromm UW-Madison with BS in Computer Science
+:school: Recent Grad from UW-Madison with BS in Computer Science
 
 🛠 Experienced Full-Stack Developer 
 
 👨‍💻 Former SWE Intern at Kohl's and Honeywell 
 
-🎨 UI/UX Design Enthusiast
-
-💻 Open to collaborate and develop modern applications 
+🎨 Aspiring UI/UX Designer
 
 ## My Expertise 
 
