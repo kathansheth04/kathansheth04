@@ -6,7 +6,7 @@
 
 🛠 Building Production-Level Multi-Agent Systems 
 
-👨‍💻 Recent Grad from UW-Madison 
+🎓 Recent Grad from UW-Madison 
 
 ## My Expertise 
 
