@@ -2,23 +2,23 @@
 
 ## About Me 
 
-:school: Recent Grad from UW-Madison with BS in Computer Science
+🪙: SWE @ PayPal
 
-🛠 Experienced Full-Stack Developer 
+🛠 Building Production-Level Multi-Agent Systems 
 
-👨‍💻 Former SWE Intern at Kohl's and Honeywell 
-
-🎨 Aspiring UI/UX Designer
+👨‍💻 Recent Grad from UW-Madison 
 
 ## My Expertise 
 
 * [NodeJS](https://nodejs.org/en)
-* [React Native](https://reactnative.dev)
+* [Next.js](https://nextjs.org/)
+* [Express.js](https://expressjs.com/)
+* [Agent SDK](https://code.claude.com/docs/en/agent-sdk/overview)
 * [React](https://react.dev)
-* [Flutter](https://flutter.dev)
+* [AWS Neptune](https://aws.amazon.com/neptune/)
+* [AWS DocumentDB](https://aws.amazon.com/documentdb/)
+* [Supabase](https://supabase.com/)
 * [Google Cloud](https://cloud.google.com)
-* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
-* [Postman](http://postman.com)
 * [MongoDB](https://www.mongodb.com)
 
 
