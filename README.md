@@ -2,7 +2,7 @@
 
 ## About Me 
 
-🪙: SWE @ PayPal
+👨‍💻 SWE @ PayPal
 
 🛠 Building Production-Level Multi-Agent Systems 
 
